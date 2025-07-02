@@ -1,0 +1,2401 @@
+Day,Classroom,Time,Course,Section
+Monday,0,8:30 AM - 10:00 AM,,
+Monday,0,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Monday,0,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Monday,0,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Monday,0,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Monday,0,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Monday,0,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Monday,0,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Monday,1,8:30 AM - 10:00 AM,,
+Monday,1,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Monday,1,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Monday,1,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Monday,1,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-7A
+Monday,1,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Monday,1,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Monday,1,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Monday,2,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Monday,2,10:00 AM - 11:30 AM,Operating Systems,BDS-3A
+Monday,2,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Monday,2,1:00 PM - 2:30 PM,Software Engineering,BDS-5A
+Monday,2,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Monday,2,4:00 PM - 5:30 PM,Machine Learning,BCS-1C
+Monday,2,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Monday,2,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Monday,3,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Monday,3,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Monday,3,11:30 AM - 1:00 PM,Linear Algebra,BDS-4A
+Monday,3,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Monday,3,2:30 PM - 4:00 PM,Database Systems,BDS-4A
+Monday,3,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Monday,3,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Monday,3,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Monday,4,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Monday,4,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Monday,4,11:30 AM - 1:00 PM,Computer Architecture,BDS-6A
+Monday,4,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Monday,4,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Monday,4,4:00 PM - 5:30 PM,Data Structures,BCS-1B
+Monday,4,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Monday,4,7:00 PM - 8:30 PM,Statistics,BDS-7A
+Monday,5,8:30 AM - 10:00 AM,Database Systems,BCS-6B
+Monday,5,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Monday,5,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Monday,5,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Monday,5,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Monday,5,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Monday,5,5:30 PM - 7:00 PM,Computer Architecture,BCS-1C
+Monday,5,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Monday,6,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Monday,6,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Monday,6,11:30 AM - 1:00 PM,Linear Algebra,BDS-4A
+Monday,6,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Monday,6,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Monday,6,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Monday,6,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Monday,6,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Monday,7,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Monday,7,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Monday,7,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Monday,7,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Monday,7,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Monday,7,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Monday,7,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Monday,7,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Monday,8,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Monday,8,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Monday,8,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Monday,8,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Monday,8,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-3A
+Monday,8,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Monday,8,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Monday,8,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Monday,9,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Monday,9,10:00 AM - 11:30 AM,Data Structures,BDS-6A
+Monday,9,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Monday,9,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Monday,9,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Monday,9,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Monday,9,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Monday,9,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Monday,10,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-3A
+Monday,10,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Monday,10,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Monday,10,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Monday,10,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Monday,10,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Monday,10,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Monday,10,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Monday,11,8:30 AM - 10:00 AM,Database Systems,BDS-5A
+Monday,11,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Monday,11,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Monday,11,1:00 PM - 2:30 PM,Software Engineering,BCS-7A
+Monday,11,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Monday,11,4:00 PM - 5:30 PM,Machine Learning,BCS-1C
+Monday,11,5:30 PM - 7:00 PM,Computer Architecture,BSD-1A
+Monday,11,7:00 PM - 8:30 PM,Web Development,BCS-1C
+Monday,12,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Monday,12,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Monday,12,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Monday,12,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Monday,12,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Monday,12,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Monday,12,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Monday,12,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Monday,13,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Monday,13,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Monday,13,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Monday,13,1:00 PM - 2:30 PM,Web Development,BDS-6A
+Monday,13,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Monday,13,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Monday,13,5:30 PM - 7:00 PM,Linear Algebra,BDS-8A
+Monday,13,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Monday,14,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Monday,14,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Monday,14,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Monday,14,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Monday,14,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-4A
+Monday,14,4:00 PM - 5:30 PM,Machine Learning,BDS-2A
+Monday,14,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Monday,14,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Monday,15,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Monday,15,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Monday,15,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Monday,15,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Monday,15,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Monday,15,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Monday,15,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Monday,15,7:00 PM - 8:30 PM,Software Engineering,BDS-3A
+Monday,16,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Monday,16,10:00 AM - 11:30 AM,Machine Learning,BDS-8A
+Monday,16,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Monday,16,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Monday,16,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Monday,16,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Monday,16,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Monday,16,7:00 PM - 8:30 PM,Statistics,BCS-2A
+Monday,17,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Monday,17,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Monday,17,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Monday,17,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Monday,17,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-4A
+Monday,17,4:00 PM - 5:30 PM,Machine Learning,BCS-1A
+Monday,17,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Monday,17,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Monday,18,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Monday,18,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Monday,18,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Monday,18,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Monday,18,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Monday,18,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Monday,18,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Monday,18,7:00 PM - 8:30 PM,Software Engineering,BDS-5A
+Monday,19,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Monday,19,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Monday,19,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Monday,19,1:00 PM - 2:30 PM,Web Development,BDS-6A
+Monday,19,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Monday,19,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Monday,19,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Monday,19,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Monday,20,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Monday,20,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Monday,20,11:30 AM - 1:00 PM,Computer Networks,BDS-2A
+Monday,20,1:00 PM - 2:30 PM,Software Engineering,BCS-7A
+Monday,20,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Monday,20,4:00 PM - 5:30 PM,Machine Learning,BDS-5A
+Monday,20,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Monday,20,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Monday,21,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-5A
+Monday,21,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Monday,21,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Monday,21,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Monday,21,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Monday,21,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Monday,21,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Monday,21,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Monday,22,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Monday,22,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Monday,22,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Monday,22,1:00 PM - 2:30 PM,Web Development,BCS-6B
+Monday,22,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-3A
+Monday,22,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Monday,22,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Monday,22,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Monday,23,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Monday,23,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Monday,23,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Monday,23,1:00 PM - 2:30 PM,Software Engineering,BCS-2A
+Monday,23,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Monday,23,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Monday,23,5:30 PM - 7:00 PM,Computer Architecture,BCS-1C
+Monday,23,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Monday,24,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1B
+Monday,24,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Monday,24,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Monday,24,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Monday,24,2:30 PM - 4:00 PM,Database Systems,BCS-1C
+Monday,24,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Monday,24,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Monday,24,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Monday,25,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Monday,25,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Monday,25,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Monday,25,1:00 PM - 2:30 PM,Web Development,BDS-6A
+Monday,25,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Monday,25,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Monday,25,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Monday,25,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Monday,26,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Monday,26,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Monday,26,11:30 AM - 1:00 PM,Computer Networks,BCS-7A
+Monday,26,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Monday,26,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Monday,26,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Monday,26,5:30 PM - 7:00 PM,Computer Architecture,BDS-4A
+Monday,26,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Monday,27,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Monday,27,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Monday,27,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Monday,27,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Monday,27,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Monday,27,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Monday,27,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Monday,27,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Monday,28,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Monday,28,10:00 AM - 11:30 AM,Machine Learning,BDS-8A
+Monday,28,11:30 AM - 1:00 PM,Computer Architecture,BDS-6A
+Monday,28,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Monday,28,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Monday,28,4:00 PM - 5:30 PM,Data Structures,BCS-1B
+Monday,28,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Monday,28,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Monday,29,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Monday,29,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Monday,29,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Monday,29,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Monday,29,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Monday,29,4:00 PM - 5:30 PM,Machine Learning,BCS-1B
+Monday,29,5:30 PM - 7:00 PM,Computer Architecture,BDS-4A
+Monday,29,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Monday,30,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Monday,30,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Monday,30,11:30 AM - 1:00 PM,Linear Algebra,BCS-1C
+Monday,30,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Monday,30,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Monday,30,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Monday,30,5:30 PM - 7:00 PM,Computer Networks,BCS-2A
+Monday,30,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Monday,31,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Monday,31,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Monday,31,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Monday,31,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Monday,31,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Monday,31,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Monday,31,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Monday,31,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Monday,32,8:30 AM - 10:00 AM,Database Systems,BDS-7A
+Monday,32,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Monday,32,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Monday,32,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Monday,32,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Monday,32,4:00 PM - 5:30 PM,Machine Learning,BDS-2A
+Monday,32,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Monday,32,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Monday,33,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Monday,33,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Monday,33,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Monday,33,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Monday,33,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Monday,33,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Monday,33,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Monday,33,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Monday,34,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Monday,34,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Monday,34,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Monday,34,1:00 PM - 2:30 PM,Web Development,BCS-6B
+Monday,34,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Monday,34,4:00 PM - 5:30 PM,Data Structures,BCS-3A
+Monday,34,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Monday,34,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Monday,35,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Monday,35,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Monday,35,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Monday,35,1:00 PM - 2:30 PM,Software Engineering,BCS-7A
+Monday,35,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-3A
+Monday,35,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Monday,35,5:30 PM - 7:00 PM,Computer Architecture,BCS-1C
+Monday,35,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Monday,36,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Monday,36,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Monday,36,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Monday,36,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Monday,36,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Monday,36,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Monday,36,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Monday,36,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Monday,37,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Monday,37,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Monday,37,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Monday,37,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Monday,37,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Monday,37,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Monday,37,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Monday,37,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Monday,38,8:30 AM - 10:00 AM,Database Systems,BDS-2A
+Monday,38,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Monday,38,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Monday,38,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Monday,38,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Monday,38,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Monday,38,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Monday,38,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Monday,39,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Monday,39,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Monday,39,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Monday,39,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Monday,39,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Monday,39,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Monday,39,5:30 PM - 7:00 PM,Computer Networks,BCS-1B
+Monday,39,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Monday,40,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Monday,40,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Monday,40,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Monday,40,1:00 PM - 2:30 PM,Web Development,BCS-2A
+Monday,40,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Monday,40,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Monday,40,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Monday,40,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Monday,41,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Monday,41,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Monday,41,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Monday,41,1:00 PM - 2:30 PM,Software Engineering,BDS-2A
+Monday,41,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Monday,41,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Monday,41,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Monday,41,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Monday,42,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Monday,42,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Monday,42,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Monday,42,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Monday,42,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Monday,42,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Monday,42,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Monday,42,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Monday,43,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Monday,43,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Monday,43,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Monday,43,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Monday,43,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Monday,43,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Monday,43,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Monday,43,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Monday,44,8:30 AM - 10:00 AM,Database Systems,BDS-7A
+Monday,44,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Monday,44,11:30 AM - 1:00 PM,Computer Networks,BCS-7A
+Monday,44,1:00 PM - 2:30 PM,Software Engineering,BDS-5A
+Monday,44,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Monday,44,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Monday,44,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Monday,44,7:00 PM - 8:30 PM,Web Development,BCS-1A
+Monday,45,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Monday,45,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Monday,45,11:30 AM - 1:00 PM,Linear Algebra,BDS-2A
+Monday,45,1:00 PM - 2:30 PM,Statistics,BDS-2A
+Monday,45,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Monday,45,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Monday,45,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Monday,45,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Monday,46,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Monday,46,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Monday,46,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Monday,46,1:00 PM - 2:30 PM,Web Development,BCS-6B
+Monday,46,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Monday,46,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Monday,46,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Monday,46,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Monday,47,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Monday,47,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Monday,47,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Monday,47,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Monday,47,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-7A
+Monday,47,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Monday,47,5:30 PM - 7:00 PM,Computer Architecture,BCS-1B
+Monday,47,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Monday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-1B
+Monday,48,10:00 AM - 11:30 AM,Data Structures Lab,BCS-3A
+Monday,48,11:30 AM - 1:00 PM,Database Systems Lab,BDS-5A
+Monday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BDS-3A
+Monday,48,2:30 PM - 4:00 PM,AI Lab,BCS-1C
+Monday,48,4:00 PM - 5:30 PM,ML Lab,BDS-5A
+Monday,48,5:30 PM - 7:00 PM,Networks Lab,BCS-2A
+Monday,48,7:00 PM - 8:30 PM,Web Dev Lab,BDS-2A
+Monday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BDS-5A
+Monday,49,10:00 AM - 11:30 AM,Data Structures Lab,BCS-1B
+Monday,49,11:30 AM - 1:00 PM,Database Systems Lab,BDS-2A
+Monday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-2A
+Monday,49,2:30 PM - 4:00 PM,AI Lab,BDS-3A
+Monday,49,4:00 PM - 5:30 PM,ML Lab,BDS-7A
+Monday,49,5:30 PM - 7:00 PM,Networks Lab,BDS-2A
+Monday,49,7:00 PM - 8:30 PM,Web Dev Lab,BCS-1C
+Tuesday,0,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Tuesday,0,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Tuesday,0,11:30 AM - 1:00 PM,Computer Networks,BCS-1B
+Tuesday,0,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Tuesday,0,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Tuesday,0,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Tuesday,0,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Tuesday,0,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Tuesday,1,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Tuesday,1,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Tuesday,1,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Tuesday,1,1:00 PM - 2:30 PM,Statistics,BCS-1B
+Tuesday,1,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Tuesday,1,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Tuesday,1,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Tuesday,1,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Tuesday,2,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1B
+Tuesday,2,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Tuesday,2,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Tuesday,2,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Tuesday,2,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Tuesday,2,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Tuesday,2,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Tuesday,2,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Tuesday,3,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Tuesday,3,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Tuesday,3,11:30 AM - 1:00 PM,Computer Networks,BDS-3A
+Tuesday,3,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Tuesday,3,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Tuesday,3,4:00 PM - 5:30 PM,Machine Learning,BDS-2A
+Tuesday,3,5:30 PM - 7:00 PM,Computer Architecture,BDS-8A
+Tuesday,3,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Tuesday,4,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Tuesday,4,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Tuesday,4,11:30 AM - 1:00 PM,Linear Algebra,BCS-6B
+Tuesday,4,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Tuesday,4,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Tuesday,4,4:00 PM - 5:30 PM,Operating Systems,BCS-7A
+Tuesday,4,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Tuesday,4,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Tuesday,5,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Tuesday,5,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Tuesday,5,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Tuesday,5,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Tuesday,5,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Tuesday,5,4:00 PM - 5:30 PM,Data Structures,BDS-8A
+Tuesday,5,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Tuesday,5,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Tuesday,6,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Tuesday,6,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Tuesday,6,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Tuesday,6,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Tuesday,6,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Tuesday,6,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Tuesday,6,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Tuesday,6,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Tuesday,7,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Tuesday,7,10:00 AM - 11:30 AM,Data Structures,BDS-7A
+Tuesday,7,11:30 AM - 1:00 PM,Linear Algebra,BCS-1C
+Tuesday,7,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Tuesday,7,2:30 PM - 4:00 PM,Database Systems,BDS-8A
+Tuesday,7,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Tuesday,7,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Tuesday,7,7:00 PM - 8:30 PM,Software Engineering,BCS-3A
+Tuesday,8,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Tuesday,8,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Tuesday,8,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Tuesday,8,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Tuesday,8,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Tuesday,8,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Tuesday,8,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Tuesday,8,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Tuesday,9,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Tuesday,9,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Tuesday,9,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Tuesday,9,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Tuesday,9,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Tuesday,9,4:00 PM - 5:30 PM,Machine Learning,BCS-3A
+Tuesday,9,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Tuesday,9,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Tuesday,10,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Tuesday,10,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Tuesday,10,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Tuesday,10,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Tuesday,10,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Tuesday,10,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Tuesday,10,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Tuesday,10,7:00 PM - 8:30 PM,Software Engineering,BDS-6A
+Tuesday,11,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Tuesday,11,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Tuesday,11,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Tuesday,11,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Tuesday,11,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Tuesday,11,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Tuesday,11,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Tuesday,11,7:00 PM - 8:30 PM,Statistics,BDS-7A
+Tuesday,12,8:30 AM - 10:00 AM,Database Systems,BCS-7A
+Tuesday,12,10:00 AM - 11:30 AM,Operating Systems,BDS-6A
+Tuesday,12,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Tuesday,12,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Tuesday,12,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Tuesday,12,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Tuesday,12,5:30 PM - 7:00 PM,Computer Architecture,BSD-1A
+Tuesday,12,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Tuesday,13,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Tuesday,13,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Tuesday,13,11:30 AM - 1:00 PM,Linear Algebra,BDS-5A
+Tuesday,13,1:00 PM - 2:30 PM,Statistics,BDS-2A
+Tuesday,13,2:30 PM - 4:00 PM,Database Systems,BDS-3A
+Tuesday,13,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Tuesday,13,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Tuesday,13,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Tuesday,14,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-4A
+Tuesday,14,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Tuesday,14,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Tuesday,14,1:00 PM - 2:30 PM,Web Development,BDS-7A
+Tuesday,14,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Tuesday,14,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Tuesday,14,5:30 PM - 7:00 PM,Linear Algebra,BCS-1B
+Tuesday,14,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Tuesday,15,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Tuesday,15,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Tuesday,15,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Tuesday,15,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Tuesday,15,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Tuesday,15,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Tuesday,15,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Tuesday,15,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Tuesday,16,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-5A
+Tuesday,16,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Tuesday,16,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Tuesday,16,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Tuesday,16,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Tuesday,16,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Tuesday,16,5:30 PM - 7:00 PM,Computer Networks,BCS-1B
+Tuesday,16,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Tuesday,17,8:30 AM - 10:00 AM,Artificial Intelligence,BSD-1A
+Tuesday,17,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Tuesday,17,11:30 AM - 1:00 PM,Computer Architecture,BDS-2A
+Tuesday,17,1:00 PM - 2:30 PM,Web Development,BDS-7A
+Tuesday,17,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Tuesday,17,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Tuesday,17,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Tuesday,17,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Tuesday,18,8:30 AM - 10:00 AM,Database Systems,BSD-1A
+Tuesday,18,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Tuesday,18,11:30 AM - 1:00 PM,Computer Networks,BCS-1A
+Tuesday,18,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Tuesday,18,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Tuesday,18,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Tuesday,18,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Tuesday,18,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Tuesday,19,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Tuesday,19,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Tuesday,19,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Tuesday,19,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Tuesday,19,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Tuesday,19,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Tuesday,19,5:30 PM - 7:00 PM,Computer Networks,BCS-1B
+Tuesday,19,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Tuesday,20,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-6A
+Tuesday,20,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Tuesday,20,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Tuesday,20,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Tuesday,20,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Tuesday,20,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Tuesday,20,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Tuesday,20,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Tuesday,21,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Tuesday,21,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Tuesday,21,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Tuesday,21,1:00 PM - 2:30 PM,Software Engineering,BCS-2A
+Tuesday,21,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Tuesday,21,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Tuesday,21,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Tuesday,21,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Tuesday,22,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-5A
+Tuesday,22,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Tuesday,22,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Tuesday,22,1:00 PM - 2:30 PM,Statistics,BCS-7A
+Tuesday,22,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Tuesday,22,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Tuesday,22,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Tuesday,22,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Tuesday,23,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Tuesday,23,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Tuesday,23,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Tuesday,23,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Tuesday,23,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Tuesday,23,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Tuesday,23,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Tuesday,23,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Tuesday,24,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Tuesday,24,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Tuesday,24,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Tuesday,24,1:00 PM - 2:30 PM,Software Engineering,BCS-2A
+Tuesday,24,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Tuesday,24,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Tuesday,24,5:30 PM - 7:00 PM,Computer Architecture,BDS-4A
+Tuesday,24,7:00 PM - 8:30 PM,Web Development,BCS-1A
+Tuesday,25,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Tuesday,25,10:00 AM - 11:30 AM,Data Structures,BCS-1A
+Tuesday,25,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Tuesday,25,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Tuesday,25,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Tuesday,25,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Tuesday,25,5:30 PM - 7:00 PM,Computer Networks,BSD-1A
+Tuesday,25,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Tuesday,26,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Tuesday,26,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Tuesday,26,11:30 AM - 1:00 PM,Computer Architecture,BDS-6A
+Tuesday,26,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Tuesday,26,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-3A
+Tuesday,26,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Tuesday,26,5:30 PM - 7:00 PM,Linear Algebra,BCS-1B
+Tuesday,26,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Tuesday,27,8:30 AM - 10:00 AM,Database Systems,BCS-7A
+Tuesday,27,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Tuesday,27,11:30 AM - 1:00 PM,Computer Networks,BCS-7A
+Tuesday,27,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Tuesday,27,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Tuesday,27,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Tuesday,27,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Tuesday,27,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Tuesday,28,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-3A
+Tuesday,28,10:00 AM - 11:30 AM,Data Structures,BDS-7A
+Tuesday,28,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Tuesday,28,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Tuesday,28,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Tuesday,28,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Tuesday,28,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Tuesday,28,7:00 PM - 8:30 PM,Software Engineering,BCS-1B
+Tuesday,29,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-6A
+Tuesday,29,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Tuesday,29,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Tuesday,29,1:00 PM - 2:30 PM,Web Development,BDS-4A
+Tuesday,29,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Tuesday,29,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Tuesday,29,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Tuesday,29,7:00 PM - 8:30 PM,Statistics,BCS-1B
+Tuesday,30,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Tuesday,30,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Tuesday,30,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Tuesday,30,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Tuesday,30,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-3A
+Tuesday,30,4:00 PM - 5:30 PM,Machine Learning,BCS-3A
+Tuesday,30,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Tuesday,30,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Tuesday,31,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Tuesday,31,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Tuesday,31,11:30 AM - 1:00 PM,Linear Algebra,BCS-1C
+Tuesday,31,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Tuesday,31,2:30 PM - 4:00 PM,Database Systems,BCS-1C
+Tuesday,31,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Tuesday,31,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Tuesday,31,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Tuesday,32,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Tuesday,32,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Tuesday,32,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Tuesday,32,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Tuesday,32,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Tuesday,32,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Tuesday,32,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Tuesday,32,7:00 PM - 8:30 PM,Statistics,BCS-1B
+Tuesday,33,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Tuesday,33,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Tuesday,33,11:30 AM - 1:00 PM,Computer Networks,BDS-3A
+Tuesday,33,1:00 PM - 2:30 PM,Software Engineering,BDS-2A
+Tuesday,33,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Tuesday,33,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Tuesday,33,5:30 PM - 7:00 PM,Computer Architecture,BSD-1A
+Tuesday,33,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Tuesday,34,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Tuesday,34,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Tuesday,34,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Tuesday,34,1:00 PM - 2:30 PM,Statistics,BCS-1C
+Tuesday,34,2:30 PM - 4:00 PM,Database Systems,BCS-1C
+Tuesday,34,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Tuesday,34,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Tuesday,34,7:00 PM - 8:30 PM,Software Engineering,BDS-3A
+Tuesday,35,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-7A
+Tuesday,35,10:00 AM - 11:30 AM,Machine Learning,BCS-6B
+Tuesday,35,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Tuesday,35,1:00 PM - 2:30 PM,Web Development,BDS-8A
+Tuesday,35,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Tuesday,35,4:00 PM - 5:30 PM,Data Structures,BCS-7A
+Tuesday,35,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Tuesday,35,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Tuesday,36,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Tuesday,36,10:00 AM - 11:30 AM,Operating Systems,BCS-7A
+Tuesday,36,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Tuesday,36,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Tuesday,36,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Tuesday,36,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Tuesday,36,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Tuesday,36,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Tuesday,37,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-3A
+Tuesday,37,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Tuesday,37,11:30 AM - 1:00 PM,Linear Algebra,BDS-4A
+Tuesday,37,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Tuesday,37,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Tuesday,37,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Tuesday,37,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Tuesday,37,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Tuesday,38,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Tuesday,38,10:00 AM - 11:30 AM,Machine Learning,BCS-1C
+Tuesday,38,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Tuesday,38,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Tuesday,38,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Tuesday,38,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Tuesday,38,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Tuesday,38,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Tuesday,39,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Tuesday,39,10:00 AM - 11:30 AM,Operating Systems,BCS-1A
+Tuesday,39,11:30 AM - 1:00 PM,Computer Networks,BDS-7A
+Tuesday,39,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Tuesday,39,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1B
+Tuesday,39,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Tuesday,39,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Tuesday,39,7:00 PM - 8:30 PM,Web Development,BCS-1A
+Tuesday,40,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Tuesday,40,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Tuesday,40,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Tuesday,40,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Tuesday,40,2:30 PM - 4:00 PM,Database Systems,BDS-6A
+Tuesday,40,4:00 PM - 5:30 PM,Operating Systems,BCS-7A
+Tuesday,40,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Tuesday,40,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Tuesday,41,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Tuesday,41,10:00 AM - 11:30 AM,Machine Learning,BCS-6B
+Tuesday,41,11:30 AM - 1:00 PM,Computer Architecture,BCS-1A
+Tuesday,41,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Tuesday,41,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Tuesday,41,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Tuesday,41,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Tuesday,41,7:00 PM - 8:30 PM,Statistics,BCS-6B
+Tuesday,42,8:30 AM - 10:00 AM,Database Systems,BSD-1A
+Tuesday,42,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Tuesday,42,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Tuesday,42,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Tuesday,42,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Tuesday,42,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Tuesday,42,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Tuesday,42,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Tuesday,43,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-6A
+Tuesday,43,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Tuesday,43,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Tuesday,43,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Tuesday,43,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Tuesday,43,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Tuesday,43,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Tuesday,43,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Tuesday,44,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Tuesday,44,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Tuesday,44,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Tuesday,44,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Tuesday,44,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Tuesday,44,4:00 PM - 5:30 PM,Data Structures,BCS-7A
+Tuesday,44,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Tuesday,44,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Tuesday,45,8:30 AM - 10:00 AM,Database Systems,BDS-7A
+Tuesday,45,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Tuesday,45,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Tuesday,45,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Tuesday,45,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Tuesday,45,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Tuesday,45,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Tuesday,45,7:00 PM - 8:30 PM,Web Development,BCS-3A
+Tuesday,46,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-8A
+Tuesday,46,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Tuesday,46,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Tuesday,46,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Tuesday,46,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Tuesday,46,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Tuesday,46,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Tuesday,46,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Tuesday,47,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-4A
+Tuesday,47,10:00 AM - 11:30 AM,Machine Learning,BDS-4A
+Tuesday,47,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Tuesday,47,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Tuesday,47,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Tuesday,47,4:00 PM - 5:30 PM,Data Structures,BDS-8A
+Tuesday,47,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Tuesday,47,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Tuesday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BSD-1A
+Tuesday,48,10:00 AM - 11:30 AM,Data Structures Lab,BSD-1A
+Tuesday,48,11:30 AM - 1:00 PM,Database Systems Lab,BDS-4A
+Tuesday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BDS-2A
+Tuesday,48,2:30 PM - 4:00 PM,AI Lab,BDS-6A
+Tuesday,48,4:00 PM - 5:30 PM,ML Lab,BCS-6B
+Tuesday,48,5:30 PM - 7:00 PM,Networks Lab,BDS-8A
+Tuesday,48,7:00 PM - 8:30 PM,Web Dev Lab,BCS-1A
+Tuesday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BDS-6A
+Tuesday,49,10:00 AM - 11:30 AM,Data Structures Lab,BCS-1C
+Tuesday,49,11:30 AM - 1:00 PM,Database Systems Lab,BCS-7A
+Tuesday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-1B
+Tuesday,49,2:30 PM - 4:00 PM,AI Lab,BDS-8A
+Tuesday,49,4:00 PM - 5:30 PM,ML Lab,BDS-4A
+Tuesday,49,5:30 PM - 7:00 PM,Networks Lab,BDS-5A
+Tuesday,49,7:00 PM - 8:30 PM,Web Dev Lab,BCS-2A
+Wednesday,0,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Wednesday,0,10:00 AM - 11:30 AM,Machine Learning,BDS-4A
+Wednesday,0,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Wednesday,0,1:00 PM - 2:30 PM,Web Development,BCS-3A
+Wednesday,0,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-8A
+Wednesday,0,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Wednesday,0,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Wednesday,0,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Wednesday,1,8:30 AM - 10:00 AM,Database Systems,BDS-7A
+Wednesday,1,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Wednesday,1,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Wednesday,1,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Wednesday,1,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Wednesday,1,4:00 PM - 5:30 PM,Machine Learning,BCS-1B
+Wednesday,1,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Wednesday,1,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Wednesday,2,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Wednesday,2,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Wednesday,2,11:30 AM - 1:00 PM,Linear Algebra,BDS-2A
+Wednesday,2,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Wednesday,2,2:30 PM - 4:00 PM,Database Systems,BDS-4A
+Wednesday,2,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Wednesday,2,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Wednesday,2,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Wednesday,3,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Wednesday,3,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Wednesday,3,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Wednesday,3,1:00 PM - 2:30 PM,Web Development,BCS-2A
+Wednesday,3,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Wednesday,3,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Wednesday,3,5:30 PM - 7:00 PM,Linear Algebra,BDS-8A
+Wednesday,3,7:00 PM - 8:30 PM,Statistics,BCS-1B
+Wednesday,4,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Wednesday,4,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Wednesday,4,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Wednesday,4,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Wednesday,4,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Wednesday,4,4:00 PM - 5:30 PM,Machine Learning,BCS-1C
+Wednesday,4,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Wednesday,4,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Wednesday,5,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Wednesday,5,10:00 AM - 11:30 AM,Data Structures,BDS-7A
+Wednesday,5,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Wednesday,5,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Wednesday,5,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Wednesday,5,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Wednesday,5,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Wednesday,5,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Wednesday,6,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Wednesday,6,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Wednesday,6,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Wednesday,6,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Wednesday,6,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Wednesday,6,4:00 PM - 5:30 PM,Data Structures,BDS-7A
+Wednesday,6,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Wednesday,6,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Wednesday,7,8:30 AM - 10:00 AM,Database Systems,BDS-4A
+Wednesday,7,10:00 AM - 11:30 AM,Operating Systems,BCS-7A
+Wednesday,7,11:30 AM - 1:00 PM,Computer Networks,BCS-1B
+Wednesday,7,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Wednesday,7,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Wednesday,7,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Wednesday,7,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Wednesday,7,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Wednesday,8,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Wednesday,8,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Wednesday,8,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Wednesday,8,1:00 PM - 2:30 PM,Statistics,BCS-1C
+Wednesday,8,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Wednesday,8,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Wednesday,8,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Wednesday,8,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Wednesday,9,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1C
+Wednesday,9,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Wednesday,9,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Wednesday,9,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Wednesday,9,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Wednesday,9,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Wednesday,9,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Wednesday,9,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Wednesday,10,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Wednesday,10,10:00 AM - 11:30 AM,Operating Systems,BDS-3A
+Wednesday,10,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Wednesday,10,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Wednesday,10,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1B
+Wednesday,10,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Wednesday,10,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Wednesday,10,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Wednesday,11,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Wednesday,11,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Wednesday,11,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Wednesday,11,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Wednesday,11,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Wednesday,11,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Wednesday,11,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Wednesday,11,7:00 PM - 8:30 PM,Software Engineering,BDS-6A
+Wednesday,12,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Wednesday,12,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Wednesday,12,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Wednesday,12,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Wednesday,12,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Wednesday,12,4:00 PM - 5:30 PM,Data Structures,BDS-8A
+Wednesday,12,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Wednesday,12,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Wednesday,13,8:30 AM - 10:00 AM,Database Systems,BSD-1A
+Wednesday,13,10:00 AM - 11:30 AM,Operating Systems,BDS-6A
+Wednesday,13,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Wednesday,13,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Wednesday,13,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1B
+Wednesday,13,4:00 PM - 5:30 PM,Machine Learning,BCS-3A
+Wednesday,13,5:30 PM - 7:00 PM,Computer Architecture,BDS-8A
+Wednesday,13,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Wednesday,14,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Wednesday,14,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Wednesday,14,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Wednesday,14,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Wednesday,14,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Wednesday,14,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Wednesday,14,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Wednesday,14,7:00 PM - 8:30 PM,Software Engineering,BCS-1B
+Wednesday,15,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Wednesday,15,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Wednesday,15,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Wednesday,15,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Wednesday,15,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Wednesday,15,4:00 PM - 5:30 PM,Data Structures,BDS-8A
+Wednesday,15,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Wednesday,15,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Wednesday,16,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Wednesday,16,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Wednesday,16,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Wednesday,16,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Wednesday,16,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Wednesday,16,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Wednesday,16,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Wednesday,16,7:00 PM - 8:30 PM,Web Development,BCS-1C
+Wednesday,17,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Wednesday,17,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Wednesday,17,11:30 AM - 1:00 PM,Linear Algebra,BDS-2A
+Wednesday,17,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Wednesday,17,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Wednesday,17,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Wednesday,17,5:30 PM - 7:00 PM,Computer Networks,BCS-2A
+Wednesday,17,7:00 PM - 8:30 PM,Software Engineering,BDS-3A
+Wednesday,18,8:30 AM - 10:00 AM,Artificial Intelligence,BSD-1A
+Wednesday,18,10:00 AM - 11:30 AM,Machine Learning,BCS-1C
+Wednesday,18,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Wednesday,18,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Wednesday,18,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Wednesday,18,4:00 PM - 5:30 PM,Data Structures,BDS-7A
+Wednesday,18,5:30 PM - 7:00 PM,Linear Algebra,BDS-5A
+Wednesday,18,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Wednesday,19,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Wednesday,19,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Wednesday,19,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Wednesday,19,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Wednesday,19,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Wednesday,19,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Wednesday,19,5:30 PM - 7:00 PM,Computer Architecture,BCS-1B
+Wednesday,19,7:00 PM - 8:30 PM,Web Development,BCS-1C
+Wednesday,20,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-6A
+Wednesday,20,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Wednesday,20,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Wednesday,20,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Wednesday,20,2:30 PM - 4:00 PM,Database Systems,BDS-8A
+Wednesday,20,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Wednesday,20,5:30 PM - 7:00 PM,Computer Networks,BSD-1A
+Wednesday,20,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Wednesday,21,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Wednesday,21,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Wednesday,21,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Wednesday,21,1:00 PM - 2:30 PM,Web Development,BDS-6A
+Wednesday,21,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Wednesday,21,4:00 PM - 5:30 PM,Data Structures,BCS-3A
+Wednesday,21,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Wednesday,21,7:00 PM - 8:30 PM,Statistics,BCS-6B
+Wednesday,22,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Wednesday,22,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Wednesday,22,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Wednesday,22,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Wednesday,22,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Wednesday,22,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Wednesday,22,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Wednesday,22,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Wednesday,23,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Wednesday,23,10:00 AM - 11:30 AM,Data Structures,BDS-6A
+Wednesday,23,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Wednesday,23,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Wednesday,23,2:30 PM - 4:00 PM,Database Systems,BCS-1C
+Wednesday,23,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Wednesday,23,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Wednesday,23,7:00 PM - 8:30 PM,Software Engineering,BDS-6A
+Wednesday,24,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Wednesday,24,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Wednesday,24,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Wednesday,24,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Wednesday,24,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Wednesday,24,4:00 PM - 5:30 PM,Data Structures,BDS-7A
+Wednesday,24,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Wednesday,24,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Wednesday,25,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Wednesday,25,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Wednesday,25,11:30 AM - 1:00 PM,Computer Networks,BCS-1B
+Wednesday,25,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Wednesday,25,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Wednesday,25,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Wednesday,25,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Wednesday,25,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Wednesday,26,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1B
+Wednesday,26,10:00 AM - 11:30 AM,Data Structures,BDS-6A
+Wednesday,26,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Wednesday,26,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Wednesday,26,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Wednesday,26,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Wednesday,26,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Wednesday,26,7:00 PM - 8:30 PM,Software Engineering,BDS-5A
+Wednesday,27,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Wednesday,27,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Wednesday,27,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Wednesday,27,1:00 PM - 2:30 PM,Web Development,BDS-7A
+Wednesday,27,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Wednesday,27,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Wednesday,27,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Wednesday,27,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Wednesday,28,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Wednesday,28,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Wednesday,28,11:30 AM - 1:00 PM,Computer Networks,BCS-1A
+Wednesday,28,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Wednesday,28,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Wednesday,28,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Wednesday,28,5:30 PM - 7:00 PM,Computer Architecture,BDS-4A
+Wednesday,28,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Wednesday,29,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Wednesday,29,10:00 AM - 11:30 AM,Data Structures,BCS-1A
+Wednesday,29,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Wednesday,29,1:00 PM - 2:30 PM,Statistics,BCS-1B
+Wednesday,29,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Wednesday,29,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Wednesday,29,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Wednesday,29,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Wednesday,30,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Wednesday,30,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Wednesday,30,11:30 AM - 1:00 PM,Computer Architecture,BDS-6A
+Wednesday,30,1:00 PM - 2:30 PM,Web Development,BCS-2A
+Wednesday,30,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Wednesday,30,4:00 PM - 5:30 PM,Data Structures,BDS-4A
+Wednesday,30,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Wednesday,30,7:00 PM - 8:30 PM,Statistics,BCS-1A
+Wednesday,31,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Wednesday,31,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Wednesday,31,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Wednesday,31,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Wednesday,31,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-3A
+Wednesday,31,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Wednesday,31,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Wednesday,31,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Wednesday,32,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Wednesday,32,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Wednesday,32,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Wednesday,32,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Wednesday,32,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Wednesday,32,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Wednesday,32,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Wednesday,32,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Wednesday,33,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1B
+Wednesday,33,10:00 AM - 11:30 AM,Machine Learning,BDS-6A
+Wednesday,33,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Wednesday,33,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Wednesday,33,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Wednesday,33,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Wednesday,33,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Wednesday,33,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Wednesday,34,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Wednesday,34,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Wednesday,34,11:30 AM - 1:00 PM,Computer Networks,BDS-3A
+Wednesday,34,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Wednesday,34,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Wednesday,34,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Wednesday,34,5:30 PM - 7:00 PM,Computer Architecture,BDS-4A
+Wednesday,34,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Wednesday,35,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-5A
+Wednesday,35,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Wednesday,35,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Wednesday,35,1:00 PM - 2:30 PM,Statistics,BDS-2A
+Wednesday,35,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Wednesday,35,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Wednesday,35,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Wednesday,35,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Wednesday,36,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Wednesday,36,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Wednesday,36,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Wednesday,36,1:00 PM - 2:30 PM,Web Development,BDS-4A
+Wednesday,36,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Wednesday,36,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Wednesday,36,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Wednesday,36,7:00 PM - 8:30 PM,Statistics,BSD-1A
+Wednesday,37,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Wednesday,37,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Wednesday,37,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Wednesday,37,1:00 PM - 2:30 PM,Software Engineering,BDS-7A
+Wednesday,37,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-2A
+Wednesday,37,4:00 PM - 5:30 PM,Machine Learning,BCS-1A
+Wednesday,37,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Wednesday,37,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Wednesday,38,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Wednesday,38,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Wednesday,38,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Wednesday,38,1:00 PM - 2:30 PM,Statistics,BDS-2A
+Wednesday,38,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Wednesday,38,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Wednesday,38,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Wednesday,38,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Wednesday,39,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Wednesday,39,10:00 AM - 11:30 AM,Machine Learning,BCS-1B
+Wednesday,39,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Wednesday,39,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Wednesday,39,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Wednesday,39,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Wednesday,39,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Wednesday,39,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Wednesday,40,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Wednesday,40,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Wednesday,40,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Wednesday,40,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Wednesday,40,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Wednesday,40,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Wednesday,40,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Wednesday,40,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Wednesday,41,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Wednesday,41,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Wednesday,41,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Wednesday,41,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Wednesday,41,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Wednesday,41,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Wednesday,41,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Wednesday,41,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Wednesday,42,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-3A
+Wednesday,42,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Wednesday,42,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Wednesday,42,1:00 PM - 2:30 PM,Web Development,BCS-6B
+Wednesday,42,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Wednesday,42,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Wednesday,42,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Wednesday,42,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Wednesday,43,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Wednesday,43,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Wednesday,43,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Wednesday,43,1:00 PM - 2:30 PM,Software Engineering,BDS-5A
+Wednesday,43,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Wednesday,43,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Wednesday,43,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Wednesday,43,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Wednesday,44,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Wednesday,44,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Wednesday,44,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Wednesday,44,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Wednesday,44,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Wednesday,44,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Wednesday,44,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Wednesday,44,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Wednesday,45,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1C
+Wednesday,45,10:00 AM - 11:30 AM,Machine Learning,BCS-1C
+Wednesday,45,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Wednesday,45,1:00 PM - 2:30 PM,Web Development,BDS-5A
+Wednesday,45,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-8A
+Wednesday,45,4:00 PM - 5:30 PM,Data Structures,BCS-7A
+Wednesday,45,5:30 PM - 7:00 PM,Linear Algebra,BSD-1A
+Wednesday,45,7:00 PM - 8:30 PM,Statistics,BCS-1B
+Wednesday,46,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Wednesday,46,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Wednesday,46,11:30 AM - 1:00 PM,Computer Networks,BDS-3A
+Wednesday,46,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Wednesday,46,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Wednesday,46,4:00 PM - 5:30 PM,Machine Learning,BCS-1C
+Wednesday,46,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Wednesday,46,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Wednesday,47,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Wednesday,47,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Wednesday,47,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Wednesday,47,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Wednesday,47,2:30 PM - 4:00 PM,Database Systems,BDS-3A
+Wednesday,47,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Wednesday,47,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Wednesday,47,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Wednesday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BDS-4A
+Wednesday,48,10:00 AM - 11:30 AM,Data Structures Lab,BCS-1C
+Wednesday,48,11:30 AM - 1:00 PM,Database Systems Lab,BDS-4A
+Wednesday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BDS-8A
+Wednesday,48,2:30 PM - 4:00 PM,AI Lab,BCS-1A
+Wednesday,48,4:00 PM - 5:30 PM,ML Lab,BCS-1A
+Wednesday,48,5:30 PM - 7:00 PM,Networks Lab,BDS-3A
+Wednesday,48,7:00 PM - 8:30 PM,Web Dev Lab,BDS-6A
+Wednesday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-1C
+Wednesday,49,10:00 AM - 11:30 AM,Data Structures Lab,BDS-6A
+Wednesday,49,11:30 AM - 1:00 PM,Database Systems Lab,BCS-7A
+Wednesday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-6B
+Wednesday,49,2:30 PM - 4:00 PM,AI Lab,BCS-2A
+Wednesday,49,4:00 PM - 5:30 PM,ML Lab,BDS-8A
+Wednesday,49,5:30 PM - 7:00 PM,Networks Lab,BDS-3A
+Wednesday,49,7:00 PM - 8:30 PM,Web Dev Lab,BCS-7A
+Thursday,0,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Thursday,0,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Thursday,0,11:30 AM - 1:00 PM,Linear Algebra,BCS-6B
+Thursday,0,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Thursday,0,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Thursday,0,4:00 PM - 5:30 PM,Operating Systems,BCS-1C
+Thursday,0,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Thursday,0,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Thursday,1,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Thursday,1,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Thursday,1,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Thursday,1,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Thursday,1,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Thursday,1,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Thursday,1,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Thursday,1,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Thursday,2,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Thursday,2,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Thursday,2,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Thursday,2,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Thursday,2,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Thursday,2,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Thursday,2,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Thursday,2,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Thursday,3,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-6A
+Thursday,3,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Thursday,3,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Thursday,3,1:00 PM - 2:30 PM,Statistics,BCS-7A
+Thursday,3,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Thursday,3,4:00 PM - 5:30 PM,Operating Systems,BCS-6B
+Thursday,3,5:30 PM - 7:00 PM,Computer Networks,BSD-1A
+Thursday,3,7:00 PM - 8:30 PM,Software Engineering,BDS-3A
+Thursday,4,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-3A
+Thursday,4,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Thursday,4,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Thursday,4,1:00 PM - 2:30 PM,Web Development,BDS-2A
+Thursday,4,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Thursday,4,4:00 PM - 5:30 PM,Data Structures,BCS-3A
+Thursday,4,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Thursday,4,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Thursday,5,8:30 AM - 10:00 AM,Database Systems,BCS-7A
+Thursday,5,10:00 AM - 11:30 AM,Operating Systems,BCS-7A
+Thursday,5,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Thursday,5,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Thursday,5,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-2A
+Thursday,5,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Thursday,5,5:30 PM - 7:00 PM,Computer Architecture,BDS-8A
+Thursday,5,7:00 PM - 8:30 PM,Web Development,BSD-1A
+Thursday,6,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Thursday,6,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Thursday,6,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Thursday,6,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Thursday,6,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Thursday,6,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Thursday,6,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Thursday,6,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Thursday,7,8:30 AM - 10:00 AM,Artificial Intelligence,BSD-1A
+Thursday,7,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Thursday,7,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Thursday,7,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Thursday,7,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-4A
+Thursday,7,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Thursday,7,5:30 PM - 7:00 PM,Linear Algebra,BCS-1B
+Thursday,7,7:00 PM - 8:30 PM,Statistics,BCS-2A
+Thursday,8,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Thursday,8,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Thursday,8,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Thursday,8,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Thursday,8,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Thursday,8,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Thursday,8,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Thursday,8,7:00 PM - 8:30 PM,Web Development,BCS-3A
+Thursday,9,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-5A
+Thursday,9,10:00 AM - 11:30 AM,Data Structures,BDS-6A
+Thursday,9,11:30 AM - 1:00 PM,Linear Algebra,BCS-1B
+Thursday,9,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Thursday,9,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Thursday,9,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Thursday,9,5:30 PM - 7:00 PM,Computer Networks,BCS-1A
+Thursday,9,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Thursday,10,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Thursday,10,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Thursday,10,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Thursday,10,1:00 PM - 2:30 PM,Web Development,BDS-7A
+Thursday,10,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Thursday,10,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Thursday,10,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Thursday,10,7:00 PM - 8:30 PM,Statistics,BCS-6B
+Thursday,11,8:30 AM - 10:00 AM,Database Systems,BDS-4A
+Thursday,11,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Thursday,11,11:30 AM - 1:00 PM,Computer Networks,BDS-7A
+Thursday,11,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Thursday,11,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Thursday,11,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Thursday,11,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Thursday,11,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Thursday,12,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Thursday,12,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Thursday,12,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Thursday,12,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Thursday,12,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Thursday,12,4:00 PM - 5:30 PM,Operating Systems,BDS-3A
+Thursday,12,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Thursday,12,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Thursday,13,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-2A
+Thursday,13,10:00 AM - 11:30 AM,Machine Learning,BCS-1B
+Thursday,13,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Thursday,13,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Thursday,13,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Thursday,13,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Thursday,13,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Thursday,13,7:00 PM - 8:30 PM,Statistics,BDS-7A
+Thursday,14,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Thursday,14,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Thursday,14,11:30 AM - 1:00 PM,Computer Networks,BCS-1A
+Thursday,14,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Thursday,14,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-7A
+Thursday,14,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Thursday,14,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Thursday,14,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Thursday,15,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1A
+Thursday,15,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Thursday,15,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Thursday,15,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Thursday,15,2:30 PM - 4:00 PM,Database Systems,BDS-4A
+Thursday,15,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Thursday,15,5:30 PM - 7:00 PM,Computer Networks,BSD-1A
+Thursday,15,7:00 PM - 8:30 PM,Software Engineering,BCS-1A
+Thursday,16,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Thursday,16,10:00 AM - 11:30 AM,Machine Learning,BDS-4A
+Thursday,16,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Thursday,16,1:00 PM - 2:30 PM,Web Development,BDS-8A
+Thursday,16,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Thursday,16,4:00 PM - 5:30 PM,Data Structures,BCS-1B
+Thursday,16,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Thursday,16,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Thursday,17,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Thursday,17,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Thursday,17,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Thursday,17,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Thursday,17,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Thursday,17,4:00 PM - 5:30 PM,Machine Learning,BDS-2A
+Thursday,17,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Thursday,17,7:00 PM - 8:30 PM,Web Development,BDS-4A
+Thursday,18,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Thursday,18,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Thursday,18,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Thursday,18,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Thursday,18,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Thursday,18,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Thursday,18,5:30 PM - 7:00 PM,Computer Networks,BDS-7A
+Thursday,18,7:00 PM - 8:30 PM,Software Engineering,BDS-5A
+Thursday,19,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1B
+Thursday,19,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Thursday,19,11:30 AM - 1:00 PM,Computer Architecture,BSD-1A
+Thursday,19,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Thursday,19,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Thursday,19,4:00 PM - 5:30 PM,Data Structures,BDS-4A
+Thursday,19,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Thursday,19,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Thursday,20,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Thursday,20,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Thursday,20,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Thursday,20,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Thursday,20,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Thursday,20,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Thursday,20,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Thursday,20,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Thursday,21,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Thursday,21,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Thursday,21,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Thursday,21,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Thursday,21,2:30 PM - 4:00 PM,Database Systems,BDS-6A
+Thursday,21,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Thursday,21,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Thursday,21,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Thursday,22,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Thursday,22,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Thursday,22,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Thursday,22,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Thursday,22,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Thursday,22,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Thursday,22,5:30 PM - 7:00 PM,Linear Algebra,BDS-3A
+Thursday,22,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Thursday,23,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Thursday,23,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Thursday,23,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Thursday,23,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Thursday,23,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-3A
+Thursday,23,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Thursday,23,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Thursday,23,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Thursday,24,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Thursday,24,10:00 AM - 11:30 AM,Data Structures,BDS-4A
+Thursday,24,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Thursday,24,1:00 PM - 2:30 PM,Statistics,BCS-1C
+Thursday,24,2:30 PM - 4:00 PM,Database Systems,BDS-3A
+Thursday,24,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Thursday,24,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Thursday,24,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Thursday,25,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Thursday,25,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Thursday,25,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Thursday,25,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Thursday,25,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Thursday,25,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Thursday,25,5:30 PM - 7:00 PM,Linear Algebra,BDS-3A
+Thursday,25,7:00 PM - 8:30 PM,Statistics,BSD-1A
+Thursday,26,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Thursday,26,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Thursday,26,11:30 AM - 1:00 PM,Computer Networks,BDS-2A
+Thursday,26,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Thursday,26,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Thursday,26,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Thursday,26,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Thursday,26,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Thursday,27,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Thursday,27,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Thursday,27,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Thursday,27,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Thursday,27,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Thursday,27,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Thursday,27,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Thursday,27,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Thursday,28,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1C
+Thursday,28,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Thursday,28,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Thursday,28,1:00 PM - 2:30 PM,Web Development,BCS-2A
+Thursday,28,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Thursday,28,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Thursday,28,5:30 PM - 7:00 PM,Linear Algebra,BDS-8A
+Thursday,28,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Thursday,29,8:30 AM - 10:00 AM,Database Systems,BDS-4A
+Thursday,29,10:00 AM - 11:30 AM,Operating Systems,BCS-6B
+Thursday,29,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Thursday,29,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Thursday,29,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Thursday,29,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Thursday,29,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Thursday,29,7:00 PM - 8:30 PM,Web Development,BCS-1C
+Thursday,30,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Thursday,30,10:00 AM - 11:30 AM,Data Structures,BCS-1A
+Thursday,30,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Thursday,30,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Thursday,30,2:30 PM - 4:00 PM,Database Systems,BDS-3A
+Thursday,30,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Thursday,30,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Thursday,30,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Thursday,31,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-3A
+Thursday,31,10:00 AM - 11:30 AM,Machine Learning,BDS-8A
+Thursday,31,11:30 AM - 1:00 PM,Computer Architecture,BDS-6A
+Thursday,31,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Thursday,31,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1B
+Thursday,31,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Thursday,31,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Thursday,31,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Thursday,32,8:30 AM - 10:00 AM,Database Systems,BDS-5A
+Thursday,32,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Thursday,32,11:30 AM - 1:00 PM,Computer Networks,BCS-1B
+Thursday,32,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Thursday,32,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Thursday,32,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Thursday,32,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Thursday,32,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Thursday,33,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Thursday,33,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Thursday,33,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Thursday,33,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Thursday,33,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Thursday,33,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Thursday,33,5:30 PM - 7:00 PM,Computer Networks,BSD-1A
+Thursday,33,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Thursday,34,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Thursday,34,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Thursday,34,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Thursday,34,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Thursday,34,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-8A
+Thursday,34,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Thursday,34,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Thursday,34,7:00 PM - 8:30 PM,Statistics,BCS-2A
+Thursday,35,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Thursday,35,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Thursday,35,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Thursday,35,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Thursday,35,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Thursday,35,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Thursday,35,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Thursday,35,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Thursday,36,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Thursday,36,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Thursday,36,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Thursday,36,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Thursday,36,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Thursday,36,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Thursday,36,5:30 PM - 7:00 PM,Computer Networks,BDS-4A
+Thursday,36,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Thursday,37,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Thursday,37,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Thursday,37,11:30 AM - 1:00 PM,Computer Architecture,BSD-1A
+Thursday,37,1:00 PM - 2:30 PM,Web Development,BCS-3A
+Thursday,37,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Thursday,37,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Thursday,37,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Thursday,37,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Thursday,38,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Thursday,38,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Thursday,38,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Thursday,38,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Thursday,38,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1B
+Thursday,38,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Thursday,38,5:30 PM - 7:00 PM,Computer Architecture,BDS-8A
+Thursday,38,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Thursday,39,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Thursday,39,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Thursday,39,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Thursday,39,1:00 PM - 2:30 PM,Statistics,BCS-7A
+Thursday,39,2:30 PM - 4:00 PM,Database Systems,BDS-5A
+Thursday,39,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Thursday,39,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Thursday,39,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Thursday,40,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Thursday,40,10:00 AM - 11:30 AM,Machine Learning,BDS-6A
+Thursday,40,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Thursday,40,1:00 PM - 2:30 PM,Web Development,BDS-8A
+Thursday,40,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-7A
+Thursday,40,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Thursday,40,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Thursday,40,7:00 PM - 8:30 PM,Statistics,BCS-1A
+Thursday,41,8:30 AM - 10:00 AM,Database Systems,BCS-1B
+Thursday,41,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Thursday,41,11:30 AM - 1:00 PM,Computer Networks,BCS-7A
+Thursday,41,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Thursday,41,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Thursday,41,4:00 PM - 5:30 PM,Machine Learning,BCS-1B
+Thursday,41,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Thursday,41,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Thursday,42,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Thursday,42,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Thursday,42,11:30 AM - 1:00 PM,Linear Algebra,BDS-7A
+Thursday,42,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Thursday,42,2:30 PM - 4:00 PM,Database Systems,BDS-6A
+Thursday,42,4:00 PM - 5:30 PM,Operating Systems,BCS-6B
+Thursday,42,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Thursday,42,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Thursday,43,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-2A
+Thursday,43,10:00 AM - 11:30 AM,Machine Learning,BDS-4A
+Thursday,43,11:30 AM - 1:00 PM,Computer Architecture,BSD-1A
+Thursday,43,1:00 PM - 2:30 PM,Web Development,BDS-5A
+Thursday,43,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Thursday,43,4:00 PM - 5:30 PM,Data Structures,BSD-1A
+Thursday,43,5:30 PM - 7:00 PM,Linear Algebra,BDS-5A
+Thursday,43,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Thursday,44,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Thursday,44,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Thursday,44,11:30 AM - 1:00 PM,Computer Networks,BDS-3A
+Thursday,44,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Thursday,44,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Thursday,44,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Thursday,44,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Thursday,44,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Thursday,45,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Thursday,45,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Thursday,45,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Thursday,45,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Thursday,45,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Thursday,45,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Thursday,45,5:30 PM - 7:00 PM,Computer Networks,BCS-2A
+Thursday,45,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Thursday,46,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-5A
+Thursday,46,10:00 AM - 11:30 AM,Machine Learning,BCS-1B
+Thursday,46,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Thursday,46,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Thursday,46,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Thursday,46,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Thursday,46,5:30 PM - 7:00 PM,Linear Algebra,BDS-3A
+Thursday,46,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Thursday,47,8:30 AM - 10:00 AM,Database Systems,BDS-5A
+Thursday,47,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Thursday,47,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Thursday,47,1:00 PM - 2:30 PM,Software Engineering,BDS-7A
+Thursday,47,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Thursday,47,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Thursday,47,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Thursday,47,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Thursday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-2A
+Thursday,48,10:00 AM - 11:30 AM,Data Structures Lab,BCS-6B
+Thursday,48,11:30 AM - 1:00 PM,Database Systems Lab,BDS-5A
+Thursday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BDS-6A
+Thursday,48,2:30 PM - 4:00 PM,AI Lab,BDS-4A
+Thursday,48,4:00 PM - 5:30 PM,ML Lab,BDS-4A
+Thursday,48,5:30 PM - 7:00 PM,Networks Lab,BDS-2A
+Thursday,48,7:00 PM - 8:30 PM,Web Dev Lab,BCS-6B
+Thursday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-2A
+Thursday,49,10:00 AM - 11:30 AM,Data Structures Lab,BDS-6A
+Thursday,49,11:30 AM - 1:00 PM,Database Systems Lab,BDS-5A
+Thursday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-7A
+Thursday,49,2:30 PM - 4:00 PM,AI Lab,BCS-7A
+Thursday,49,4:00 PM - 5:30 PM,ML Lab,BCS-1B
+Thursday,49,5:30 PM - 7:00 PM,Networks Lab,BCS-7A
+Thursday,49,7:00 PM - 8:30 PM,Web Dev Lab,BDS-3A
+Friday,0,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Friday,0,10:00 AM - 11:30 AM,Operating Systems,BDS-6A
+Friday,0,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Friday,0,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Friday,0,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Friday,0,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Friday,0,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Friday,0,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Friday,1,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Friday,1,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Friday,1,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Friday,1,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Friday,1,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Friday,1,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Friday,1,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Friday,1,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Friday,2,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1B
+Friday,2,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Friday,2,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Friday,2,1:00 PM - 2:30 PM,Web Development,BCS-3A
+Friday,2,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Friday,2,4:00 PM - 5:30 PM,Data Structures,BCS-7A
+Friday,2,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Friday,2,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Friday,3,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Friday,3,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Friday,3,11:30 AM - 1:00 PM,Computer Networks,BCS-7A
+Friday,3,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Friday,3,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Friday,3,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Friday,3,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Friday,3,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Friday,4,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-4A
+Friday,4,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Friday,4,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Friday,4,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Friday,4,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Friday,4,4:00 PM - 5:30 PM,Operating Systems,BDS-5A
+Friday,4,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Friday,4,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Friday,5,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Friday,5,10:00 AM - 11:30 AM,Machine Learning,BDS-4A
+Friday,5,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Friday,5,1:00 PM - 2:30 PM,Web Development,BCS-3A
+Friday,5,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-6B
+Friday,5,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Friday,5,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Friday,5,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Friday,6,8:30 AM - 10:00 AM,Database Systems,BCS-7A
+Friday,6,10:00 AM - 11:30 AM,Operating Systems,BDS-5A
+Friday,6,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Friday,6,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Friday,6,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-3A
+Friday,6,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Friday,6,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Friday,6,7:00 PM - 8:30 PM,Web Development,BDS-4A
+Friday,7,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-8A
+Friday,7,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Friday,7,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Friday,7,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Friday,7,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Friday,7,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Friday,7,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Friday,7,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Friday,8,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Friday,8,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Friday,8,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Friday,8,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Friday,8,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Friday,8,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Friday,8,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Friday,8,7:00 PM - 8:30 PM,Statistics,BSD-1A
+Friday,9,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Friday,9,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Friday,9,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Friday,9,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Friday,9,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Friday,9,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Friday,9,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Friday,9,7:00 PM - 8:30 PM,Web Development,BSD-1A
+Friday,10,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-3A
+Friday,10,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Friday,10,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Friday,10,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Friday,10,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Friday,10,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Friday,10,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Friday,10,7:00 PM - 8:30 PM,Software Engineering,BCS-1B
+Friday,11,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-6B
+Friday,11,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Friday,11,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Friday,11,1:00 PM - 2:30 PM,Web Development,BCS-6B
+Friday,11,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Friday,11,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Friday,11,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Friday,11,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Friday,12,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Friday,12,10:00 AM - 11:30 AM,Operating Systems,BDS-8A
+Friday,12,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Friday,12,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Friday,12,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-3A
+Friday,12,4:00 PM - 5:30 PM,Machine Learning,BCS-1A
+Friday,12,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Friday,12,7:00 PM - 8:30 PM,Web Development,BCS-3A
+Friday,13,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-8A
+Friday,13,10:00 AM - 11:30 AM,Data Structures,BDS-8A
+Friday,13,11:30 AM - 1:00 PM,Linear Algebra,BCS-1B
+Friday,13,1:00 PM - 2:30 PM,Statistics,BCS-7A
+Friday,13,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Friday,13,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Friday,13,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Friday,13,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Friday,14,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1C
+Friday,14,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Friday,14,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Friday,14,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Friday,14,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Friday,14,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Friday,14,5:30 PM - 7:00 PM,Linear Algebra,BDS-3A
+Friday,14,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Friday,15,8:30 AM - 10:00 AM,Database Systems,BCS-1A
+Friday,15,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Friday,15,11:30 AM - 1:00 PM,Computer Networks,BCS-1A
+Friday,15,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Friday,15,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-3A
+Friday,15,4:00 PM - 5:30 PM,Machine Learning,BCS-1A
+Friday,15,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Friday,15,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Friday,16,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-7A
+Friday,16,10:00 AM - 11:30 AM,Data Structures,BDS-4A
+Friday,16,11:30 AM - 1:00 PM,Linear Algebra,BCS-2A
+Friday,16,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Friday,16,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Friday,16,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Friday,16,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Friday,16,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Friday,17,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Friday,17,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Friday,17,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Friday,17,1:00 PM - 2:30 PM,Web Development,BCS-3A
+Friday,17,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Friday,17,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Friday,17,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Friday,17,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Friday,18,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Friday,18,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Friday,18,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Friday,18,1:00 PM - 2:30 PM,Software Engineering,BCS-7A
+Friday,18,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-4A
+Friday,18,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Friday,18,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Friday,18,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Friday,19,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1A
+Friday,19,10:00 AM - 11:30 AM,Data Structures,BCS-1C
+Friday,19,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Friday,19,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Friday,19,2:30 PM - 4:00 PM,Database Systems,BDS-6A
+Friday,19,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Friday,19,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Friday,19,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Friday,20,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Friday,20,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Friday,20,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Friday,20,1:00 PM - 2:30 PM,Web Development,BCS-7A
+Friday,20,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-3A
+Friday,20,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Friday,20,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Friday,20,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Friday,21,8:30 AM - 10:00 AM,Database Systems,BDS-2A
+Friday,21,10:00 AM - 11:30 AM,Operating Systems,BDS-8A
+Friday,21,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Friday,21,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Friday,21,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Friday,21,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Friday,21,5:30 PM - 7:00 PM,Computer Architecture,BCS-1B
+Friday,21,7:00 PM - 8:30 PM,Web Development,BCS-3A
+Friday,22,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-3A
+Friday,22,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Friday,22,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Friday,22,1:00 PM - 2:30 PM,Statistics,BCS-1A
+Friday,22,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Friday,22,4:00 PM - 5:30 PM,Operating Systems,BCS-7A
+Friday,22,5:30 PM - 7:00 PM,Computer Networks,BCS-2A
+Friday,22,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Friday,23,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-2A
+Friday,23,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Friday,23,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Friday,23,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Friday,23,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-7A
+Friday,23,4:00 PM - 5:30 PM,Data Structures,BDS-7A
+Friday,23,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Friday,23,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Friday,24,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Friday,24,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Friday,24,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Friday,24,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Friday,24,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-5A
+Friday,24,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Friday,24,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Friday,24,7:00 PM - 8:30 PM,Web Development,BCS-2A
+Friday,25,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Friday,25,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Friday,25,11:30 AM - 1:00 PM,Linear Algebra,BDS-5A
+Friday,25,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Friday,25,2:30 PM - 4:00 PM,Database Systems,BDS-8A
+Friday,25,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Friday,25,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Friday,25,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Friday,26,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Friday,26,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Friday,26,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Friday,26,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Friday,26,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-3A
+Friday,26,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Friday,26,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Friday,26,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Friday,27,8:30 AM - 10:00 AM,Database Systems,BSD-1A
+Friday,27,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Friday,27,11:30 AM - 1:00 PM,Computer Networks,BDS-2A
+Friday,27,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Friday,27,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Friday,27,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Friday,27,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Friday,27,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Friday,28,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-2A
+Friday,28,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Friday,28,11:30 AM - 1:00 PM,Linear Algebra,BDS-5A
+Friday,28,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Friday,28,2:30 PM - 4:00 PM,Database Systems,BCS-6B
+Friday,28,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Friday,28,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Friday,28,7:00 PM - 8:30 PM,Software Engineering,BCS-2A
+Friday,29,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-3A
+Friday,29,10:00 AM - 11:30 AM,Machine Learning,BCS-3A
+Friday,29,11:30 AM - 1:00 PM,Computer Architecture,BDS-5A
+Friday,29,1:00 PM - 2:30 PM,Web Development,BDS-2A
+Friday,29,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-6A
+Friday,29,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Friday,29,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Friday,29,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Friday,30,8:30 AM - 10:00 AM,Database Systems,BCS-6B
+Friday,30,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Friday,30,11:30 AM - 1:00 PM,Computer Networks,BCS-1B
+Friday,30,1:00 PM - 2:30 PM,Software Engineering,BDS-3A
+Friday,30,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Friday,30,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Friday,30,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Friday,30,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Friday,31,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1B
+Friday,31,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Friday,31,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Friday,31,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Friday,31,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Friday,31,4:00 PM - 5:30 PM,Operating Systems,BDS-6A
+Friday,31,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Friday,31,7:00 PM - 8:30 PM,Software Engineering,BSD-1A
+Friday,32,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-2A
+Friday,32,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Friday,32,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Friday,32,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Friday,32,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1B
+Friday,32,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Friday,32,5:30 PM - 7:00 PM,Linear Algebra,BDS-4A
+Friday,32,7:00 PM - 8:30 PM,Statistics,BCS-6B
+Friday,33,8:30 AM - 10:00 AM,Database Systems,BCS-3A
+Friday,33,10:00 AM - 11:30 AM,Operating Systems,BCS-1A
+Friday,33,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Friday,33,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Friday,33,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Friday,33,4:00 PM - 5:30 PM,Machine Learning,BDS-2A
+Friday,33,5:30 PM - 7:00 PM,Computer Architecture,BCS-3A
+Friday,33,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Friday,34,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Friday,34,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Friday,34,11:30 AM - 1:00 PM,Linear Algebra,BDS-4A
+Friday,34,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Friday,34,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Friday,34,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Friday,34,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Friday,34,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Friday,35,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Friday,35,10:00 AM - 11:30 AM,Machine Learning,BSD-1A
+Friday,35,11:30 AM - 1:00 PM,Computer Architecture,BDS-4A
+Friday,35,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Friday,35,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Friday,35,4:00 PM - 5:30 PM,Data Structures,BDS-6A
+Friday,35,5:30 PM - 7:00 PM,Linear Algebra,BCS-3A
+Friday,35,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Friday,36,8:30 AM - 10:00 AM,Database Systems,BCS-7A
+Friday,36,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Friday,36,11:30 AM - 1:00 PM,Computer Networks,BDS-7A
+Friday,36,1:00 PM - 2:30 PM,Software Engineering,BDS-7A
+Friday,36,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-7A
+Friday,36,4:00 PM - 5:30 PM,Machine Learning,BCS-1C
+Friday,36,5:30 PM - 7:00 PM,Computer Architecture,BCS-3A
+Friday,36,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Friday,37,8:30 AM - 10:00 AM,Programming Fundamentals,BSD-1A
+Friday,37,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Friday,37,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Friday,37,1:00 PM - 2:30 PM,Statistics,BDS-3A
+Friday,37,2:30 PM - 4:00 PM,Database Systems,BCS-1B
+Friday,37,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Friday,37,5:30 PM - 7:00 PM,Computer Networks,BCS-1B
+Friday,37,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Friday,38,8:30 AM - 10:00 AM,Artificial Intelligence,BSD-1A
+Friday,38,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Friday,38,11:30 AM - 1:00 PM,Computer Architecture,BCS-1C
+Friday,38,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Friday,38,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-8A
+Friday,38,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Friday,38,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Friday,38,7:00 PM - 8:30 PM,Statistics,BCS-2A
+Friday,39,8:30 AM - 10:00 AM,Database Systems,BDS-5A
+Friday,39,10:00 AM - 11:30 AM,Operating Systems,BDS-7A
+Friday,39,11:30 AM - 1:00 PM,Computer Networks,BDS-7A
+Friday,39,1:00 PM - 2:30 PM,Software Engineering,BCS-1C
+Friday,39,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Friday,39,4:00 PM - 5:30 PM,Machine Learning,BSD-1A
+Friday,39,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Friday,39,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Friday,40,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Friday,40,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Friday,40,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Friday,40,1:00 PM - 2:30 PM,Statistics,BCS-1B
+Friday,40,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Friday,40,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Friday,40,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Friday,40,7:00 PM - 8:30 PM,Software Engineering,BDS-5A
+Friday,41,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-7A
+Friday,41,10:00 AM - 11:30 AM,Machine Learning,BCS-6B
+Friday,41,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Friday,41,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Friday,41,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1B
+Friday,41,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Friday,41,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Friday,41,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Friday,42,8:30 AM - 10:00 AM,Database Systems,BCS-6B
+Friday,42,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Friday,42,11:30 AM - 1:00 PM,Computer Networks,BDS-5A
+Friday,42,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Friday,42,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Friday,42,4:00 PM - 5:30 PM,Machine Learning,BCS-2A
+Friday,42,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Friday,42,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Friday,43,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Friday,43,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Friday,43,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Friday,43,1:00 PM - 2:30 PM,Statistics,BCS-7A
+Friday,43,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Friday,43,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Friday,43,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Friday,43,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Friday,44,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Friday,44,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Friday,44,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Friday,44,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Friday,44,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Friday,44,4:00 PM - 5:30 PM,Data Structures,BCS-1B
+Friday,44,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Friday,44,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Friday,45,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Friday,45,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Friday,45,11:30 AM - 1:00 PM,Computer Networks,BCS-1C
+Friday,45,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Friday,45,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Friday,45,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Friday,45,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Friday,45,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Friday,46,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1A
+Friday,46,10:00 AM - 11:30 AM,Data Structures,BDS-2A
+Friday,46,11:30 AM - 1:00 PM,Linear Algebra,BCS-6B
+Friday,46,1:00 PM - 2:30 PM,Statistics,BDS-8A
+Friday,46,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Friday,46,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Friday,46,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Friday,46,7:00 PM - 8:30 PM,Software Engineering,BDS-8A
+Friday,47,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-4A
+Friday,47,10:00 AM - 11:30 AM,Machine Learning,BCS-1C
+Friday,47,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Friday,47,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Friday,47,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-3A
+Friday,47,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Friday,47,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Friday,47,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Friday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-6B
+Friday,48,10:00 AM - 11:30 AM,Data Structures Lab,BSD-1A
+Friday,48,11:30 AM - 1:00 PM,Database Systems Lab,BDS-7A
+Friday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-2A
+Friday,48,2:30 PM - 4:00 PM,AI Lab,BDS-2A
+Friday,48,4:00 PM - 5:30 PM,ML Lab,BSD-1A
+Friday,48,5:30 PM - 7:00 PM,Networks Lab,BDS-5A
+Friday,48,7:00 PM - 8:30 PM,Web Dev Lab,BCS-2A
+Friday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-3A
+Friday,49,10:00 AM - 11:30 AM,Data Structures Lab,BDS-8A
+Friday,49,11:30 AM - 1:00 PM,Database Systems Lab,BCS-1C
+Friday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BDS-4A
+Friday,49,2:30 PM - 4:00 PM,AI Lab,BDS-3A
+Friday,49,4:00 PM - 5:30 PM,ML Lab,BCS-2A
+Friday,49,5:30 PM - 7:00 PM,Networks Lab,BDS-7A
+Friday,49,7:00 PM - 8:30 PM,Web Dev Lab,BCS-3A
+Saturday,0,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-3A
+Saturday,0,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Saturday,0,11:30 AM - 1:00 PM,Computer Architecture,BDS-2A
+Saturday,0,1:00 PM - 2:30 PM,Web Development,BCS-2A
+Saturday,0,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Saturday,0,4:00 PM - 5:30 PM,Data Structures,BCS-6B
+Saturday,0,5:30 PM - 7:00 PM,Linear Algebra,BDS-8A
+Saturday,0,7:00 PM - 8:30 PM,Statistics,BDS-6A
+Saturday,1,8:30 AM - 10:00 AM,Database Systems,BCS-6B
+Saturday,1,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Saturday,1,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Saturday,1,1:00 PM - 2:30 PM,Software Engineering,BCS-6B
+Saturday,1,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Saturday,1,4:00 PM - 5:30 PM,Machine Learning,BDS-8A
+Saturday,1,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Saturday,1,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Saturday,2,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Saturday,2,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Saturday,2,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Saturday,2,1:00 PM - 2:30 PM,Statistics,BCS-2A
+Saturday,2,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Saturday,2,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Saturday,2,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Saturday,2,7:00 PM - 8:30 PM,Software Engineering,BCS-3A
+Saturday,3,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1C
+Saturday,3,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Saturday,3,11:30 AM - 1:00 PM,Computer Architecture,BCS-6B
+Saturday,3,1:00 PM - 2:30 PM,Web Development,BDS-2A
+Saturday,3,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Saturday,3,4:00 PM - 5:30 PM,Data Structures,BDS-8A
+Saturday,3,5:30 PM - 7:00 PM,Linear Algebra,BDS-2A
+Saturday,3,7:00 PM - 8:30 PM,Statistics,BCS-2A
+Saturday,4,8:30 AM - 10:00 AM,Database Systems,BDS-2A
+Saturday,4,10:00 AM - 11:30 AM,Operating Systems,BCS-1A
+Saturday,4,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Saturday,4,1:00 PM - 2:30 PM,Software Engineering,BCS-2A
+Saturday,4,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-4A
+Saturday,4,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Saturday,4,5:30 PM - 7:00 PM,Computer Architecture,BDS-5A
+Saturday,4,7:00 PM - 8:30 PM,Web Development,BDS-4A
+Saturday,5,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-3A
+Saturday,5,10:00 AM - 11:30 AM,Data Structures,BDS-3A
+Saturday,5,11:30 AM - 1:00 PM,Linear Algebra,BCS-3A
+Saturday,5,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Saturday,5,2:30 PM - 4:00 PM,Database Systems,BDS-4A
+Saturday,5,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Saturday,5,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Saturday,5,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Saturday,6,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-2A
+Saturday,6,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Saturday,6,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Saturday,6,1:00 PM - 2:30 PM,Web Development,BDS-4A
+Saturday,6,2:30 PM - 4:00 PM,Programming Fundamentals,BSD-1A
+Saturday,6,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Saturday,6,5:30 PM - 7:00 PM,Linear Algebra,BCS-1A
+Saturday,6,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Saturday,7,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Saturday,7,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Saturday,7,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Saturday,7,1:00 PM - 2:30 PM,Software Engineering,BCS-3A
+Saturday,7,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-2A
+Saturday,7,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Saturday,7,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Saturday,7,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Saturday,8,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-6B
+Saturday,8,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Saturday,8,11:30 AM - 1:00 PM,Linear Algebra,BDS-5A
+Saturday,8,1:00 PM - 2:30 PM,Statistics,BCS-3A
+Saturday,8,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Saturday,8,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Saturday,8,5:30 PM - 7:00 PM,Computer Networks,BCS-6B
+Saturday,8,7:00 PM - 8:30 PM,Software Engineering,BCS-7A
+Saturday,9,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-7A
+Saturday,9,10:00 AM - 11:30 AM,Machine Learning,BCS-2A
+Saturday,9,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Saturday,9,1:00 PM - 2:30 PM,Web Development,BDS-7A
+Saturday,9,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Saturday,9,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Saturday,9,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Saturday,9,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Saturday,10,8:30 AM - 10:00 AM,Database Systems,BDS-7A
+Saturday,10,10:00 AM - 11:30 AM,Operating Systems,BSD-1A
+Saturday,10,11:30 AM - 1:00 PM,Computer Networks,BSD-1A
+Saturday,10,1:00 PM - 2:30 PM,Software Engineering,BDS-7A
+Saturday,10,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Saturday,10,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Saturday,10,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Saturday,10,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Saturday,11,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1B
+Saturday,11,10:00 AM - 11:30 AM,Data Structures,BDS-5A
+Saturday,11,11:30 AM - 1:00 PM,Linear Algebra,BCS-1B
+Saturday,11,1:00 PM - 2:30 PM,Statistics,BCS-1C
+Saturday,11,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Saturday,11,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Saturday,11,5:30 PM - 7:00 PM,Computer Networks,BDS-2A
+Saturday,11,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Saturday,12,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Saturday,12,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Saturday,12,11:30 AM - 1:00 PM,Computer Architecture,BCS-1A
+Saturday,12,1:00 PM - 2:30 PM,Web Development,BDS-2A
+Saturday,12,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-2A
+Saturday,12,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Saturday,12,5:30 PM - 7:00 PM,Linear Algebra,BCS-2A
+Saturday,12,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Saturday,13,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Saturday,13,10:00 AM - 11:30 AM,Operating Systems,BDS-3A
+Saturday,13,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Saturday,13,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Saturday,13,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1B
+Saturday,13,4:00 PM - 5:30 PM,Machine Learning,BCS-7A
+Saturday,13,5:30 PM - 7:00 PM,Computer Architecture,BCS-6B
+Saturday,13,7:00 PM - 8:30 PM,Web Development,BCS-6B
+Saturday,14,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Saturday,14,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Saturday,14,11:30 AM - 1:00 PM,Linear Algebra,BCS-6B
+Saturday,14,1:00 PM - 2:30 PM,Statistics,BDS-4A
+Saturday,14,2:30 PM - 4:00 PM,Database Systems,BCS-2A
+Saturday,14,4:00 PM - 5:30 PM,Operating Systems,BCS-1A
+Saturday,14,5:30 PM - 7:00 PM,Computer Networks,BDS-7A
+Saturday,14,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Saturday,15,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-4A
+Saturday,15,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Saturday,15,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Saturday,15,1:00 PM - 2:30 PM,Web Development,BDS-4A
+Saturday,15,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Saturday,15,4:00 PM - 5:30 PM,Data Structures,BCS-1A
+Saturday,15,5:30 PM - 7:00 PM,Linear Algebra,BDS-3A
+Saturday,15,7:00 PM - 8:30 PM,Statistics,BCS-3A
+Saturday,16,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Saturday,16,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Saturday,16,11:30 AM - 1:00 PM,Computer Networks,BDS-2A
+Saturday,16,1:00 PM - 2:30 PM,Software Engineering,BDS-6A
+Saturday,16,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-7A
+Saturday,16,4:00 PM - 5:30 PM,Machine Learning,BDS-6A
+Saturday,16,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Saturday,16,7:00 PM - 8:30 PM,Web Development,BSD-1A
+Saturday,17,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Saturday,17,10:00 AM - 11:30 AM,Data Structures,BCS-2A
+Saturday,17,11:30 AM - 1:00 PM,Linear Algebra,BCS-1B
+Saturday,17,1:00 PM - 2:30 PM,Statistics,BCS-1B
+Saturday,17,2:30 PM - 4:00 PM,Database Systems,BDS-7A
+Saturday,17,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Saturday,17,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Saturday,17,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Saturday,18,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-7A
+Saturday,18,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Saturday,18,11:30 AM - 1:00 PM,Computer Architecture,BCS-7A
+Saturday,18,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Saturday,18,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1A
+Saturday,18,4:00 PM - 5:30 PM,Data Structures,BDS-2A
+Saturday,18,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Saturday,18,7:00 PM - 8:30 PM,Statistics,BDS-5A
+Saturday,19,8:30 AM - 10:00 AM,Database Systems,BDS-6A
+Saturday,19,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Saturday,19,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Saturday,19,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Saturday,19,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Saturday,19,4:00 PM - 5:30 PM,Machine Learning,BCS-6B
+Saturday,19,5:30 PM - 7:00 PM,Computer Architecture,BDS-8A
+Saturday,19,7:00 PM - 8:30 PM,Web Development,BDS-6A
+Saturday,20,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1A
+Saturday,20,10:00 AM - 11:30 AM,Data Structures,BCS-6B
+Saturday,20,11:30 AM - 1:00 PM,Linear Algebra,BCS-7A
+Saturday,20,1:00 PM - 2:30 PM,Statistics,BCS-6B
+Saturday,20,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Saturday,20,4:00 PM - 5:30 PM,Operating Systems,BDS-3A
+Saturday,20,5:30 PM - 7:00 PM,Computer Networks,BDS-3A
+Saturday,20,7:00 PM - 8:30 PM,Software Engineering,BCS-6B
+Saturday,21,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-7A
+Saturday,21,10:00 AM - 11:30 AM,Machine Learning,BDS-3A
+Saturday,21,11:30 AM - 1:00 PM,Computer Architecture,BCS-1B
+Saturday,21,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Saturday,21,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Saturday,21,4:00 PM - 5:30 PM,Data Structures,BCS-7A
+Saturday,21,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Saturday,21,7:00 PM - 8:30 PM,Statistics,BCS-1C
+Saturday,22,8:30 AM - 10:00 AM,Database Systems,BDS-2A
+Saturday,22,10:00 AM - 11:30 AM,Operating Systems,BDS-4A
+Saturday,22,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Saturday,22,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Saturday,22,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-6A
+Saturday,22,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Saturday,22,5:30 PM - 7:00 PM,Computer Architecture,BSD-1A
+Saturday,22,7:00 PM - 8:30 PM,Web Development,BDS-3A
+Saturday,23,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Saturday,23,10:00 AM - 11:30 AM,Data Structures,BDS-7A
+Saturday,23,11:30 AM - 1:00 PM,Linear Algebra,BDS-2A
+Saturday,23,1:00 PM - 2:30 PM,Statistics,BDS-2A
+Saturday,23,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Saturday,23,4:00 PM - 5:30 PM,Operating Systems,BSD-1A
+Saturday,23,5:30 PM - 7:00 PM,Computer Networks,BCS-1C
+Saturday,23,7:00 PM - 8:30 PM,Software Engineering,BCS-1C
+Saturday,24,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1B
+Saturday,24,10:00 AM - 11:30 AM,Machine Learning,BDS-8A
+Saturday,24,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Saturday,24,1:00 PM - 2:30 PM,Web Development,BDS-8A
+Saturday,24,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1C
+Saturday,24,4:00 PM - 5:30 PM,Data Structures,BCS-1B
+Saturday,24,5:30 PM - 7:00 PM,Linear Algebra,BCS-1C
+Saturday,24,7:00 PM - 8:30 PM,Statistics,BDS-8A
+Saturday,25,8:30 AM - 10:00 AM,Database Systems,BSD-1A
+Saturday,25,10:00 AM - 11:30 AM,Operating Systems,BDS-8A
+Saturday,25,11:30 AM - 1:00 PM,Computer Networks,BDS-6A
+Saturday,25,1:00 PM - 2:30 PM,Software Engineering,BDS-7A
+Saturday,25,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1A
+Saturday,25,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Saturday,25,5:30 PM - 7:00 PM,Computer Architecture,BCS-2A
+Saturday,25,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Saturday,26,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Saturday,26,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Saturday,26,11:30 AM - 1:00 PM,Linear Algebra,BDS-3A
+Saturday,26,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Saturday,26,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Saturday,26,4:00 PM - 5:30 PM,Operating Systems,BCS-2A
+Saturday,26,5:30 PM - 7:00 PM,Computer Networks,BDS-8A
+Saturday,26,7:00 PM - 8:30 PM,Software Engineering,BCS-3A
+Saturday,27,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-7A
+Saturday,27,10:00 AM - 11:30 AM,Machine Learning,BDS-8A
+Saturday,27,11:30 AM - 1:00 PM,Computer Architecture,BCS-2A
+Saturday,27,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Saturday,27,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-3A
+Saturday,27,4:00 PM - 5:30 PM,Data Structures,BCS-2A
+Saturday,27,5:30 PM - 7:00 PM,Linear Algebra,BCS-1B
+Saturday,27,7:00 PM - 8:30 PM,Statistics,BDS-7A
+Saturday,28,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Saturday,28,10:00 AM - 11:30 AM,Operating Systems,BCS-7A
+Saturday,28,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Saturday,28,1:00 PM - 2:30 PM,Software Engineering,BDS-4A
+Saturday,28,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-8A
+Saturday,28,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Saturday,28,5:30 PM - 7:00 PM,Computer Architecture,BDS-6A
+Saturday,28,7:00 PM - 8:30 PM,Web Development,BDS-5A
+Saturday,29,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-7A
+Saturday,29,10:00 AM - 11:30 AM,Data Structures,BDS-4A
+Saturday,29,11:30 AM - 1:00 PM,Linear Algebra,BDS-6A
+Saturday,29,1:00 PM - 2:30 PM,Statistics,BSD-1A
+Saturday,29,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Saturday,29,4:00 PM - 5:30 PM,Operating Systems,BDS-8A
+Saturday,29,5:30 PM - 7:00 PM,Computer Networks,BDS-6A
+Saturday,29,7:00 PM - 8:30 PM,Software Engineering,BDS-3A
+Saturday,30,8:30 AM - 10:00 AM,Artificial Intelligence,BSD-1A
+Saturday,30,10:00 AM - 11:30 AM,Machine Learning,BDS-2A
+Saturday,30,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Saturday,30,1:00 PM - 2:30 PM,Web Development,BCS-1C
+Saturday,30,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Saturday,30,4:00 PM - 5:30 PM,Data Structures,BDS-7A
+Saturday,30,5:30 PM - 7:00 PM,Linear Algebra,BDS-7A
+Saturday,30,7:00 PM - 8:30 PM,Statistics,BDS-2A
+Saturday,31,8:30 AM - 10:00 AM,Database Systems,BCS-1C
+Saturday,31,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Saturday,31,11:30 AM - 1:00 PM,Computer Networks,BDS-8A
+Saturday,31,1:00 PM - 2:30 PM,Software Engineering,BDS-2A
+Saturday,31,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-1C
+Saturday,31,4:00 PM - 5:30 PM,Machine Learning,BDS-7A
+Saturday,31,5:30 PM - 7:00 PM,Computer Architecture,BCS-7A
+Saturday,31,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Saturday,32,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-8A
+Saturday,32,10:00 AM - 11:30 AM,Data Structures,BSD-1A
+Saturday,32,11:30 AM - 1:00 PM,Linear Algebra,BDS-4A
+Saturday,32,1:00 PM - 2:30 PM,Statistics,BDS-6A
+Saturday,32,2:30 PM - 4:00 PM,Database Systems,BCS-3A
+Saturday,32,4:00 PM - 5:30 PM,Operating Systems,BCS-6B
+Saturday,32,5:30 PM - 7:00 PM,Computer Networks,BCS-7A
+Saturday,32,7:00 PM - 8:30 PM,Software Engineering,BDS-2A
+Saturday,33,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-6A
+Saturday,33,10:00 AM - 11:30 AM,Machine Learning,BDS-5A
+Saturday,33,11:30 AM - 1:00 PM,Computer Architecture,BDS-8A
+Saturday,33,1:00 PM - 2:30 PM,Web Development,BDS-2A
+Saturday,33,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Saturday,33,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Saturday,33,5:30 PM - 7:00 PM,Linear Algebra,BCS-7A
+Saturday,33,7:00 PM - 8:30 PM,Statistics,BDS-4A
+Saturday,34,8:30 AM - 10:00 AM,Database Systems,BCS-2A
+Saturday,34,10:00 AM - 11:30 AM,Operating Systems,BCS-1C
+Saturday,34,11:30 AM - 1:00 PM,Computer Networks,BDS-4A
+Saturday,34,1:00 PM - 2:30 PM,Software Engineering,BSD-1A
+Saturday,34,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Saturday,34,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Saturday,34,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Saturday,34,7:00 PM - 8:30 PM,Web Development,BDS-7A
+Saturday,35,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-7A
+Saturday,35,10:00 AM - 11:30 AM,Data Structures,BCS-1A
+Saturday,35,11:30 AM - 1:00 PM,Linear Algebra,BSD-1A
+Saturday,35,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Saturday,35,2:30 PM - 4:00 PM,Database Systems,BDS-2A
+Saturday,35,4:00 PM - 5:30 PM,Operating Systems,BDS-7A
+Saturday,35,5:30 PM - 7:00 PM,Computer Networks,BDS-5A
+Saturday,35,7:00 PM - 8:30 PM,Software Engineering,BDS-7A
+Saturday,36,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Saturday,36,10:00 AM - 11:30 AM,Machine Learning,BCS-1A
+Saturday,36,11:30 AM - 1:00 PM,Computer Architecture,BDS-7A
+Saturday,36,1:00 PM - 2:30 PM,Web Development,BCS-1A
+Saturday,36,2:30 PM - 4:00 PM,Programming Fundamentals,BDS-5A
+Saturday,36,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Saturday,36,5:30 PM - 7:00 PM,Linear Algebra,BDS-6A
+Saturday,36,7:00 PM - 8:30 PM,Statistics,BCS-7A
+Saturday,37,8:30 AM - 10:00 AM,Database Systems,BDS-4A
+Saturday,37,10:00 AM - 11:30 AM,Operating Systems,BCS-3A
+Saturday,37,11:30 AM - 1:00 PM,Computer Networks,BCS-6B
+Saturday,37,1:00 PM - 2:30 PM,Software Engineering,BCS-1A
+Saturday,37,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-6B
+Saturday,37,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Saturday,37,5:30 PM - 7:00 PM,Computer Architecture,BCS-1A
+Saturday,37,7:00 PM - 8:30 PM,Web Development,BCS-1B
+Saturday,38,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-2A
+Saturday,38,10:00 AM - 11:30 AM,Data Structures,BCS-1B
+Saturday,38,11:30 AM - 1:00 PM,Linear Algebra,BDS-8A
+Saturday,38,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Saturday,38,2:30 PM - 4:00 PM,Database Systems,BCS-7A
+Saturday,38,4:00 PM - 5:30 PM,Operating Systems,BCS-3A
+Saturday,38,5:30 PM - 7:00 PM,Computer Networks,BDS-7A
+Saturday,38,7:00 PM - 8:30 PM,Software Engineering,BDS-5A
+Saturday,39,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-6A
+Saturday,39,10:00 AM - 11:30 AM,Machine Learning,BCS-7A
+Saturday,39,11:30 AM - 1:00 PM,Computer Architecture,BDS-3A
+Saturday,39,1:00 PM - 2:30 PM,Web Development,BSD-1A
+Saturday,39,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-2A
+Saturday,39,4:00 PM - 5:30 PM,Data Structures,BDS-5A
+Saturday,39,5:30 PM - 7:00 PM,Linear Algebra,BDS-5A
+Saturday,39,7:00 PM - 8:30 PM,Statistics,BSD-1A
+Saturday,40,8:30 AM - 10:00 AM,Database Systems,BDS-4A
+Saturday,40,10:00 AM - 11:30 AM,Operating Systems,BCS-2A
+Saturday,40,11:30 AM - 1:00 PM,Computer Networks,BDS-7A
+Saturday,40,1:00 PM - 2:30 PM,Software Engineering,BDS-2A
+Saturday,40,2:30 PM - 4:00 PM,Artificial Intelligence,BSD-1A
+Saturday,40,4:00 PM - 5:30 PM,Machine Learning,BDS-4A
+Saturday,40,5:30 PM - 7:00 PM,Computer Architecture,BDS-2A
+Saturday,40,7:00 PM - 8:30 PM,Web Development,BDS-2A
+Saturday,41,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-7A
+Saturday,41,10:00 AM - 11:30 AM,Data Structures,BCS-1A
+Saturday,41,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Saturday,41,1:00 PM - 2:30 PM,Statistics,BDS-5A
+Saturday,41,2:30 PM - 4:00 PM,Database Systems,BSD-1A
+Saturday,41,4:00 PM - 5:30 PM,Operating Systems,BDS-2A
+Saturday,41,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Saturday,41,7:00 PM - 8:30 PM,Software Engineering,BDS-6A
+Saturday,42,8:30 AM - 10:00 AM,Artificial Intelligence,BCS-1A
+Saturday,42,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Saturday,42,11:30 AM - 1:00 PM,Computer Architecture,BSD-1A
+Saturday,42,1:00 PM - 2:30 PM,Web Development,BDS-3A
+Saturday,42,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-7A
+Saturday,42,4:00 PM - 5:30 PM,Data Structures,BCS-1C
+Saturday,42,5:30 PM - 7:00 PM,Linear Algebra,BCS-6B
+Saturday,42,7:00 PM - 8:30 PM,Statistics,BCS-1A
+Saturday,43,8:30 AM - 10:00 AM,Database Systems,BDS-3A
+Saturday,43,10:00 AM - 11:30 AM,Operating Systems,BCS-1B
+Saturday,43,11:30 AM - 1:00 PM,Computer Networks,BCS-3A
+Saturday,43,1:00 PM - 2:30 PM,Software Engineering,BDS-8A
+Saturday,43,2:30 PM - 4:00 PM,Artificial Intelligence,BCS-3A
+Saturday,43,4:00 PM - 5:30 PM,Machine Learning,BDS-3A
+Saturday,43,5:30 PM - 7:00 PM,Computer Architecture,BDS-3A
+Saturday,43,7:00 PM - 8:30 PM,Web Development,BDS-8A
+Saturday,44,8:30 AM - 10:00 AM,Programming Fundamentals,BDS-3A
+Saturday,44,10:00 AM - 11:30 AM,Data Structures,BCS-7A
+Saturday,44,11:30 AM - 1:00 PM,Linear Algebra,BCS-1A
+Saturday,44,1:00 PM - 2:30 PM,Statistics,BDS-7A
+Saturday,44,2:30 PM - 4:00 PM,Database Systems,BDS-8A
+Saturday,44,4:00 PM - 5:30 PM,Operating Systems,BCS-1B
+Saturday,44,5:30 PM - 7:00 PM,Computer Networks,BCS-1B
+Saturday,44,7:00 PM - 8:30 PM,Software Engineering,BDS-4A
+Saturday,45,8:30 AM - 10:00 AM,Artificial Intelligence,BDS-8A
+Saturday,45,10:00 AM - 11:30 AM,Machine Learning,BDS-7A
+Saturday,45,11:30 AM - 1:00 PM,Computer Architecture,BCS-3A
+Saturday,45,1:00 PM - 2:30 PM,Web Development,BCS-1B
+Saturday,45,2:30 PM - 4:00 PM,Programming Fundamentals,BCS-1B
+Saturday,45,4:00 PM - 5:30 PM,Data Structures,BDS-3A
+Saturday,45,5:30 PM - 7:00 PM,Linear Algebra,BSD-1A
+Saturday,45,7:00 PM - 8:30 PM,Statistics,BDS-3A
+Saturday,46,8:30 AM - 10:00 AM,Database Systems,BDS-8A
+Saturday,46,10:00 AM - 11:30 AM,Operating Systems,BDS-2A
+Saturday,46,11:30 AM - 1:00 PM,Computer Networks,BCS-2A
+Saturday,46,1:00 PM - 2:30 PM,Software Engineering,BCS-1B
+Saturday,46,2:30 PM - 4:00 PM,Artificial Intelligence,BDS-7A
+Saturday,46,4:00 PM - 5:30 PM,Machine Learning,BCS-1B
+Saturday,46,5:30 PM - 7:00 PM,Computer Architecture,BDS-7A
+Saturday,46,7:00 PM - 8:30 PM,Web Development,BCS-7A
+Saturday,47,8:30 AM - 10:00 AM,Programming Fundamentals,BCS-1C
+Saturday,47,10:00 AM - 11:30 AM,Data Structures,BCS-3A
+Saturday,47,11:30 AM - 1:00 PM,Linear Algebra,BDS-5A
+Saturday,47,1:00 PM - 2:30 PM,Statistics,BCS-1C
+Saturday,47,2:30 PM - 4:00 PM,Database Systems,BCS-1A
+Saturday,47,4:00 PM - 5:30 PM,Operating Systems,BDS-4A
+Saturday,47,5:30 PM - 7:00 PM,Computer Networks,BCS-3A
+Saturday,47,7:00 PM - 8:30 PM,Software Engineering,BCS-3A
+Saturday,48,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BDS-2A
+Saturday,48,10:00 AM - 11:30 AM,Data Structures Lab,BDS-2A
+Saturday,48,11:30 AM - 1:00 PM,Database Systems Lab,BSD-1A
+Saturday,48,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-6B
+Saturday,48,2:30 PM - 4:00 PM,AI Lab,BCS-3A
+Saturday,48,4:00 PM - 5:30 PM,ML Lab,BCS-3A
+Saturday,48,5:30 PM - 7:00 PM,Networks Lab,BSD-1A
+Saturday,48,7:00 PM - 8:30 PM,Web Dev Lab,BDS-4A
+Saturday,49,8:30 AM - 10:00 AM,Programming Fundamentals Lab,BCS-2A
+Saturday,49,10:00 AM - 11:30 AM,Data Structures Lab,BDS-8A
+Saturday,49,11:30 AM - 1:00 PM,Database Systems Lab,BCS-2A
+Saturday,49,1:00 PM - 2:30 PM,Operating Systems Lab,BCS-3A
+Saturday,49,2:30 PM - 4:00 PM,AI Lab,BDS-8A
+Saturday,49,4:00 PM - 5:30 PM,ML Lab,BDS-4A
+Saturday,49,5:30 PM - 7:00 PM,Networks Lab,BCS-6B
+Saturday,49,7:00 PM - 8:30 PM,Web Dev Lab,BCS-6B
